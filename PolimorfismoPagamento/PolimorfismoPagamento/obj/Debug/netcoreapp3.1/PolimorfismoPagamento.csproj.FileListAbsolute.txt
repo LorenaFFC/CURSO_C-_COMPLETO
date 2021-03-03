@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\obj\Debug\netcoreapp3.1\PolimorfismoPagamento.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\obj\Debug\netcoreapp3.1\PolimorfismoPagamento.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\obj\Debug\netcoreapp3.1\PolimorfismoPagamento.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\obj\Debug\netcoreapp3.1\PolimorfismoPagamento.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\bin\Debug\netcoreapp3.1\PolimorfismoPagamento.exe
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\bin\Debug\netcoreapp3.1\PolimorfismoPagamento.deps.json
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\bin\Debug\netcoreapp3.1\PolimorfismoPagamento.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\bin\Debug\netcoreapp3.1\PolimorfismoPagamento.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\bin\Debug\netcoreapp3.1\PolimorfismoPagamento.dll
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\bin\Debug\netcoreapp3.1\PolimorfismoPagamento.pdb
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\obj\Debug\netcoreapp3.1\PolimorfismoPagamento.dll
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\obj\Debug\netcoreapp3.1\PolimorfismoPagamento.pdb
+C:\Users\loren\Desktop\C# Completo\PolimorfismoPagamento\PolimorfismoPagamento\obj\Debug\netcoreapp3.1\PolimorfismoPagamento.genruntimeconfig.cache

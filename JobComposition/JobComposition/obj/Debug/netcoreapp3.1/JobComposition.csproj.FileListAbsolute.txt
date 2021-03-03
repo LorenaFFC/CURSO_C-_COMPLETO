@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\bin\Debug\netcoreapp3.1\JobComposition.exe
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\bin\Debug\netcoreapp3.1\JobComposition.deps.json
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\bin\Debug\netcoreapp3.1\JobComposition.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\bin\Debug\netcoreapp3.1\JobComposition.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\bin\Debug\netcoreapp3.1\JobComposition.dll
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\bin\Debug\netcoreapp3.1\JobComposition.pdb
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\obj\Debug\netcoreapp3.1\JobComposition.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\obj\Debug\netcoreapp3.1\JobComposition.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\obj\Debug\netcoreapp3.1\JobComposition.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\obj\Debug\netcoreapp3.1\JobComposition.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\obj\Debug\netcoreapp3.1\JobComposition.dll
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\obj\Debug\netcoreapp3.1\JobComposition.pdb
+C:\Users\loren\Desktop\C# Completo\JobComposition\JobComposition\obj\Debug\netcoreapp3.1\JobComposition.genruntimeconfig.cache

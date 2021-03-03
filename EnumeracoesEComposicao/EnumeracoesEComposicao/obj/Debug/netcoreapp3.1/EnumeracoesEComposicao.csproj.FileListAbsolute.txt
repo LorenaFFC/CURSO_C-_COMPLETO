@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\netcoreapp3.1\EnumeracoesEComposicao.exe
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\netcoreapp3.1\EnumeracoesEComposicao.deps.json
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\netcoreapp3.1\EnumeracoesEComposicao.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\netcoreapp3.1\EnumeracoesEComposicao.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\netcoreapp3.1\EnumeracoesEComposicao.dll
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\netcoreapp3.1\EnumeracoesEComposicao.pdb
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\netcoreapp3.1\EnumeracoesEComposicao.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\netcoreapp3.1\EnumeracoesEComposicao.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\netcoreapp3.1\EnumeracoesEComposicao.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\netcoreapp3.1\EnumeracoesEComposicao.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\netcoreapp3.1\EnumeracoesEComposicao.dll
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\netcoreapp3.1\EnumeracoesEComposicao.pdb
+C:\Users\loren\Desktop\C# Completo\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\netcoreapp3.1\EnumeracoesEComposicao.genruntimeconfig.cache

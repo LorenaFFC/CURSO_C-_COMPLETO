@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\netcoreapp3.1\CompositionStringBuilder.exe
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\netcoreapp3.1\CompositionStringBuilder.deps.json
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\netcoreapp3.1\CompositionStringBuilder.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\netcoreapp3.1\CompositionStringBuilder.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\netcoreapp3.1\CompositionStringBuilder.dll
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\bin\Debug\netcoreapp3.1\CompositionStringBuilder.pdb
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\netcoreapp3.1\CompositionStringBuilder.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\netcoreapp3.1\CompositionStringBuilder.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\netcoreapp3.1\CompositionStringBuilder.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\netcoreapp3.1\CompositionStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\netcoreapp3.1\CompositionStringBuilder.dll
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\netcoreapp3.1\CompositionStringBuilder.pdb
+C:\Users\loren\Desktop\C# Completo\CompositionStringBuilder\CompositionStringBuilder\obj\Debug\netcoreapp3.1\CompositionStringBuilder.genruntimeconfig.cache

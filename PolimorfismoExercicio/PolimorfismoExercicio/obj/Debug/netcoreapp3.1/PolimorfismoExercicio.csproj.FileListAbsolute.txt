@@ -1,0 +1,12 @@
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\netcoreapp3.1\PolimorfismoExercicio.exe
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\netcoreapp3.1\PolimorfismoExercicio.deps.json
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\netcoreapp3.1\PolimorfismoExercicio.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\netcoreapp3.1\PolimorfismoExercicio.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\netcoreapp3.1\PolimorfismoExercicio.dll
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\bin\Debug\netcoreapp3.1\PolimorfismoExercicio.pdb
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\netcoreapp3.1\PolimorfismoExercicio.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\netcoreapp3.1\PolimorfismoExercicio.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\netcoreapp3.1\PolimorfismoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\netcoreapp3.1\PolimorfismoExercicio.dll
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\netcoreapp3.1\PolimorfismoExercicio.pdb
+C:\Users\loren\Desktop\C# Completo\PolimorfismoExercicio\PolimorfismoExercicio\obj\Debug\netcoreapp3.1\PolimorfismoExercicio.genruntimeconfig.cache

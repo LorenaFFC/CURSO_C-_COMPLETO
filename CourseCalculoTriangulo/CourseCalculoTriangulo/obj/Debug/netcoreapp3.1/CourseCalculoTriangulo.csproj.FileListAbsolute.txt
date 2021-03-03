@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\bin\Debug\netcoreapp3.1\CourseCalculoTriangulo.exe
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\bin\Debug\netcoreapp3.1\CourseCalculoTriangulo.deps.json
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\bin\Debug\netcoreapp3.1\CourseCalculoTriangulo.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\bin\Debug\netcoreapp3.1\CourseCalculoTriangulo.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\bin\Debug\netcoreapp3.1\CourseCalculoTriangulo.dll
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\bin\Debug\netcoreapp3.1\CourseCalculoTriangulo.pdb
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\obj\Debug\netcoreapp3.1\CourseCalculoTriangulo.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\obj\Debug\netcoreapp3.1\CourseCalculoTriangulo.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\obj\Debug\netcoreapp3.1\CourseCalculoTriangulo.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\obj\Debug\netcoreapp3.1\CourseCalculoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\obj\Debug\netcoreapp3.1\CourseCalculoTriangulo.dll
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\obj\Debug\netcoreapp3.1\CourseCalculoTriangulo.pdb
+C:\Users\loren\Desktop\C# Completo\CourseCalculoTriangulo\CourseCalculoTriangulo\obj\Debug\netcoreapp3.1\CourseCalculoTriangulo.genruntimeconfig.cache
