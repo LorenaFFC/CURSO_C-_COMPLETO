@@ -15,21 +15,42 @@ namespace Xadrez_Console
                 Console.Write(8 - i + " ");
                 for (int j = 0; j < tab.colunas; j++)
                 {
-                    if (tab.peca(i, j) == null)
-                    {
-                        Console.Write("- ");
-                    }
-                    else
-                    {
-                        Tela.imprimirPeca(tab.peca(i, j) );
-                        Console.Write(" ");
-                       // Console.Write(tab.peca(i, j) + " ");
-                    }
+                    Tela.imprimirPeca(tab.peca(i, j) );
+                    Console.Write(" ");
                 }
                 Console.WriteLine();
             }
 
-            Console.Write("  a b c d e f g h");
+            Console.Write("  a  b  c  d  e  f  g  h");
+        }
+
+        public static void imprimirTabuleiro(Tabuleiro tab, bool[,] posicoesPossiveis)
+        {
+            ConsoleColor fundoOriginal = Console.BackgroundColor;
+            ConsoleColor fundoAlterado = ConsoleColor.DarkGreen;
+
+            for (int i = 0; i < tab.linhas; i++)
+            {
+                Console.Write(8 - i + " ");
+                for (int j = 0; j < tab.colunas; j++)
+                {
+                    if(posicoesPossiveis[i,j] == true)
+                    {
+                        Console.BackgroundColor = fundoAlterado;
+                    }
+                    else
+                    {
+                        Console.BackgroundColor = fundoOriginal;
+                    }
+                    Tela.imprimirPeca(tab.peca(i, j));
+                    Console.BackgroundColor = fundoOriginal;
+                    Console.Write(" ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.Write("  a  b  c  d  e  f  g  h");
+            Console.BackgroundColor = fundoOriginal;
         }
 
         public static PosicaoXadrez lerPosicaoXadrez()
@@ -42,18 +63,25 @@ namespace Xadrez_Console
         }
         public static void imprimirPeca(Peca peca)
         {
-            if(peca.cor == Cor.Branca)
+            if (peca == null)
             {
-                Console.Write(peca);
+                Console.Write("- ");
             }
             else
             {
-                ConsoleColor aux = Console.ForegroundColor;
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.Write(peca);
-                Console.ForegroundColor = aux;
+                if (peca.cor == Cor.Branca)
+                {
+                    Console.Write(peca);
+                }
+                else
+                {
+                    ConsoleColor aux = Console.ForegroundColor;
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.Write(peca);
+                    Console.ForegroundColor = aux;
+                }
+                Console.Write(" ");
             }
-
         }
     }
 }
