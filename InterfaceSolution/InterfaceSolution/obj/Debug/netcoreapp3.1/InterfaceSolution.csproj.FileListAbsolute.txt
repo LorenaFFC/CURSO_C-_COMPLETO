@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.exe
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.deps.json
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.dll
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.pdb
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.dll
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.pdb
+C:\Users\loren\Desktop\C# Completo\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.genruntimeconfig.cache
