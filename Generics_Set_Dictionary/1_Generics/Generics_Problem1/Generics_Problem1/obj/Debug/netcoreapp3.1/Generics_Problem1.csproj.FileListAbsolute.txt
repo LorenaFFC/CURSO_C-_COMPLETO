@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\bin\Debug\netcoreapp3.1\Generics_Problem1.exe
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\bin\Debug\netcoreapp3.1\Generics_Problem1.deps.json
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\bin\Debug\netcoreapp3.1\Generics_Problem1.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\bin\Debug\netcoreapp3.1\Generics_Problem1.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\bin\Debug\netcoreapp3.1\Generics_Problem1.dll
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\bin\Debug\netcoreapp3.1\Generics_Problem1.pdb
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\obj\Debug\netcoreapp3.1\Generics_Problem1.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\obj\Debug\netcoreapp3.1\Generics_Problem1.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\obj\Debug\netcoreapp3.1\Generics_Problem1.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\obj\Debug\netcoreapp3.1\Generics_Problem1.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\obj\Debug\netcoreapp3.1\Generics_Problem1.dll
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\obj\Debug\netcoreapp3.1\Generics_Problem1.pdb
+C:\Users\loren\Desktop\C# Completo\Generics_Set_Dictionary\1_Generics\Generics_Problem1\Generics_Problem1\obj\Debug\netcoreapp3.1\Generics_Problem1.genruntimeconfig.cache
