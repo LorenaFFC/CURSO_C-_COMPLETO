@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\bin\Debug\netcoreapp3.1\ExFixacaoInterface.exe
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\bin\Debug\netcoreapp3.1\ExFixacaoInterface.deps.json
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\bin\Debug\netcoreapp3.1\ExFixacaoInterface.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\bin\Debug\netcoreapp3.1\ExFixacaoInterface.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\bin\Debug\netcoreapp3.1\ExFixacaoInterface.dll
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\bin\Debug\netcoreapp3.1\ExFixacaoInterface.pdb
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\obj\Debug\netcoreapp3.1\ExFixacaoInterface.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\obj\Debug\netcoreapp3.1\ExFixacaoInterface.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\obj\Debug\netcoreapp3.1\ExFixacaoInterface.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\obj\Debug\netcoreapp3.1\ExFixacaoInterface.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\obj\Debug\netcoreapp3.1\ExFixacaoInterface.dll
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\obj\Debug\netcoreapp3.1\ExFixacaoInterface.pdb
+C:\Users\loren\Desktop\C# Completo\ExFixacaoInterface\ExFixacaoInterface\obj\Debug\netcoreapp3.1\ExFixacaoInterface.genruntimeconfig.cache
