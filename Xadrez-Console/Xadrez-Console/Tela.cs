@@ -18,6 +18,7 @@ namespace Xadrez_Console
             if (!partida.terminada)
             {
                 Console.WriteLine("Aguardando jogada: " + partida.jogadorAtual);
+
                 
             }
             else
