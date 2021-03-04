@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\bin\Debug\netcoreapp3.1\FileStreamANDStreamReader.exe
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\bin\Debug\netcoreapp3.1\FileStreamANDStreamReader.deps.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\bin\Debug\netcoreapp3.1\FileStreamANDStreamReader.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\bin\Debug\netcoreapp3.1\FileStreamANDStreamReader.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\bin\Debug\netcoreapp3.1\FileStreamANDStreamReader.dll
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\bin\Debug\netcoreapp3.1\FileStreamANDStreamReader.pdb
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\obj\Debug\netcoreapp3.1\FileStreamANDStreamReader.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\obj\Debug\netcoreapp3.1\FileStreamANDStreamReader.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\obj\Debug\netcoreapp3.1\FileStreamANDStreamReader.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\obj\Debug\netcoreapp3.1\FileStreamANDStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\obj\Debug\netcoreapp3.1\FileStreamANDStreamReader.dll
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\obj\Debug\netcoreapp3.1\FileStreamANDStreamReader.pdb
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\FileStreamANDStreamReader\FileStreamANDStreamReader\obj\Debug\netcoreapp3.1\FileStreamANDStreamReader.genruntimeconfig.cache

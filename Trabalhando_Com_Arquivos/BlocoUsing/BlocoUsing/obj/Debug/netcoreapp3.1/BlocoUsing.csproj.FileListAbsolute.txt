@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.1\BlocoUsing.exe
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.1\BlocoUsing.deps.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.1\BlocoUsing.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.1\BlocoUsing.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.1\BlocoUsing.dll
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.1\BlocoUsing.pdb
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.1\BlocoUsing.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.1\BlocoUsing.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.1\BlocoUsing.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.1\BlocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.1\BlocoUsing.dll
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.1\BlocoUsing.pdb
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.1\BlocoUsing.genruntimeconfig.cache

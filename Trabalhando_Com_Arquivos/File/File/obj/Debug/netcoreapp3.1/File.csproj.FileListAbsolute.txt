@@ -1,0 +1,13 @@
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\obj\Debug\netcoreapp3.1\File.csprojAssemblyReference.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\obj\Debug\netcoreapp3.1\File.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\obj\Debug\netcoreapp3.1\File.AssemblyInfo.cs
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\obj\Debug\netcoreapp3.1\File.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\bin\Debug\netcoreapp3.1\File.exe
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\bin\Debug\netcoreapp3.1\File.deps.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\bin\Debug\netcoreapp3.1\File.runtimeconfig.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\bin\Debug\netcoreapp3.1\File.runtimeconfig.dev.json
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\bin\Debug\netcoreapp3.1\File.dll
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\bin\Debug\netcoreapp3.1\File.pdb
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\obj\Debug\netcoreapp3.1\File.dll
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\obj\Debug\netcoreapp3.1\File.pdb
+C:\Users\loren\Desktop\C# Completo\Trabalhando_Com_Arquivos\File\File\obj\Debug\netcoreapp3.1\File.genruntimeconfig.cache
